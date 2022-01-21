@@ -1,5 +1,5 @@
 ## Burger builder
-React E-Commerce App. Tutorial by Maximilian Schwarzmüller
+React E-Commerce App
 
 ## Technologies used:
 Node.js, React, Redux
